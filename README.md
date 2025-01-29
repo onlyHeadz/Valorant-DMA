@@ -16,7 +16,7 @@ A simple Valorant DMA source featuring basic aimbot and visual functionalities. 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/valorant-dma-source.git
+   git clone https://github.com/Cy-privacy/valorant-dma-source.git
 Ensure your firewall is configured to allow the source to run (may be blocked on startup).
 
 Build the project and make any necessary performance tweaks as per your setup.
